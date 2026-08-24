@@ -1,0 +1,11 @@
+# app-ads.txt for Bloomrush (Tin Compass Studio)
+#
+# IMPORTANT: this file must be served from the ROOT of the domain you list as
+# your developer website in the Play Console, e.g. https://yourdomain.com/app-ads.txt
+# A GitHub Pages PROJECT site (user.github.io/repo/) will NOT work for this -
+# AdMob only reads the domain root. A user/organisation site (user.github.io)
+# does work, as does any custom domain.
+#
+# Replace the publisher ID below ONLY if yours differs. This value is the
+# numeric part of your AdMob app ID (ca-app-pub-7500802628181654~...).
+google.com, pub-7500802628181654, DIRECT, f08c47fec0942fa0
